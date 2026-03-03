@@ -1,6 +1,6 @@
-## Contact : +918136844613 ⋄ [harisjosinpeter@gmail.com](mailto:harisjosinpeter@gmail.com) ⋄ Thrissur, India 680699
+# HARIS JOSIN PETER
 
-## LinkedIn ⋄ GitHub ⋄ Portfolio
+## Contact : +918136844613 | [harisjosinpeter@gmail.com](mailto:harisjosinpeter@gmail.com) | Thrissur, India 680699
 
 ### Objective
 
@@ -82,7 +82,7 @@ https://github.com/JoelJaison394/SoulSync
 
 ## Awards & Honors
 
-2026: 1st runner-up, Global Game Jam
-2025: 1st prize, BeachHack Season 6
-2024–25: Outreach Lead, TinkerHub SCET
-2024: 1st prize, Infinia Hackathon
+- 2026: 1st runner-up, Global Game Jam
+- 2025: 1st prize, BeachHack Season 6
+- 2024–25: Outreach Lead, TinkerHub SCET
+- 2024: 1st prize, Infinia Hackathon
