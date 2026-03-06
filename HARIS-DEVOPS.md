@@ -69,7 +69,7 @@ https://github.com/Joeljaison391/LawLens-AI
 - Developed peer-review platform using IPFS, MetaMask, and Ethereum smart contracts.
 - Incorporated AI-driven pre-review and plagiarism analysis using NLP.
 
-SoulSync: AI-Assisted Reminiscence Tool - Personalized NLP Companion for Alzheimer’s Patients (2025)
+### SoulSync: AI-Assisted Reminiscence Tool - Personalized NLP Companion for Alzheimer’s Patients (2025)
 
 https://github.com/JoelJaison394/SoulSync
 
