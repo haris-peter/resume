@@ -1,7 +1,10 @@
 # HARIS JOSIN PETER
 
-## Contact : +918136844613 | [harisjosinpeter@gmail.com](mailto:harisjosinpeter@gmail.com) | Thrissur, India 680699
-
+## Contact 
+Phone Number	: +918136844613
+Email			: [harisjosinpeter@gmail.com](mailto:harisjosinpeter@gmail.com)
+Address			: Thrissur, India 680699
+Portfolio		: [harisjp portfolio](https://haris-jp.vercel.app/)
 ### Objective
 
 Site Reliability and cloud-focused backend engineer with hands-on experience managing production-grade, containerized microservices in a product-based ERP environment. Experienced in incident handling, performance optimization, observability engineering, CI/CD automation, and infrastructure monitoring. Improved system uptime by 10%, reduced backup failures by 80%, and optimized critical billing workflows by 60%. Skilled in Docker, Kubernetes (Minikube), AWS, PostgreSQL, and production debugging across multi-service architectures.
