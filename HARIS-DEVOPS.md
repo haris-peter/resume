@@ -7,7 +7,7 @@
 - Portfolio		: [harisjp portfolio](https://haris-jp.vercel.app/)
 ### Objective
 
-Site Reliability and cloud-focused backend engineer with hands-on experience managing production-grade, containerized microservices in a product-based ERP environment. Experienced in incident handling, performance optimization, observability engineering, CI/CD automation, and infrastructure monitoring. Improved system uptime by 10%, reduced backup failures by 80%, and optimized critical billing workflows by 60%. Skilled in Docker, Kubernetes (Minikube), AWS, PostgreSQL, and production debugging across multi-service architectures.
+AI/ML-focused backend engineer with hands-on experience in building and managing production-grade, containerized microservices within an ERP environment. Strong foundation in data handling, system optimization, and scalable architecture, with growing expertise in machine learning, data analysis, and AI-driven applications. Experienced in observability, CI/CD automation, and cloud infrastructure (AWS), enabling efficient deployment of intelligent systems. Proven impact includes improving system uptime by 10%, reducing backup failures by 80%, and optimizing critical workflows by 60%. Passionate about applying machine learning and data-driven solutions to real-world problems.
 
 ## Education
 
